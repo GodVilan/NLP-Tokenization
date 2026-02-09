@@ -1,9 +1,9 @@
 # NLP Tokenization Assignment – Q5
 
 ## Student Information
-Name: SRIKANTH REDDY NANDIREDDY
-Student ID: 700773949
-Course: Natural Language Processing 
+Name: <SRIKANTH REDDY NANDIREDDY>
+Student ID: <700773949>
+Course: <Natural Language Processing>
 
 ---
 
